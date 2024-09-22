@@ -39,6 +39,6 @@ This is a simple Library Management System developed using Python's Tkinter libr
    - [Prachi](https://github.com/prachi2805)
 
 ### Result 
-  
+  ![LMS](https://github.com/user-attachments/assets/4abc1bd5-950e-4f99-9606-48ec9166192a)
 
-![LMS](https://github.com/user-attachments/assets/fade50da-437b-4242-8fa7-c22a8f467406)
+
