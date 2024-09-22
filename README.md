@@ -28,7 +28,14 @@ This is a simple Library Management System developed using Python's Tkinter libr
 
 
 2. Navigate to the project directory:
-```bash
-cd library-management-system
+   ```bash
+   cd library-management-system
+
+3. Run the application:
+   ```bash
+   python library_management_system.py
+
+
+
 
 
