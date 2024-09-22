@@ -1,4 +1,4 @@
-# Library-Management-system
+# Library-Management-System
 
 
 This is a simple Library Management System developed using Python's Tkinter library for the GUI and SQLite for the database. The application allows users to manage book records, including adding, updating, and deleting records.
