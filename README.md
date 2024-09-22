@@ -31,7 +31,4 @@ This is a simple Library Management System developed using Python's Tkinter libr
 ```bash
 cd library-management-system
 
-3. Run the application:
-```bash
-python library_management_system.py
 
