@@ -24,15 +24,15 @@ This is a simple Library Management System developed using Python's Tkinter libr
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Gsdhumal07/library-management-system.git
+   git clone https://github.com/Gsdhumal07/Library-Management-system.git
 
 
 2. Navigate to the project directory:
    ```bash
-   cd library-management-system
+   cd Library-Management-system
 
 3. Run the application:
    ```bash
-   python library_management_system.py
+   python main.py
 
 
