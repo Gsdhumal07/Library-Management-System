@@ -36,3 +36,5 @@ This is a simple Library Management System developed using Python's Tkinter libr
    python main.py
 
 
+Collaborators  : https://github.com/prachi2805 
+
