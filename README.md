@@ -1,6 +1,5 @@
 # Library-Management-system-
 
-# Library Management System
 
 This is a simple Library Management System developed using Python's Tkinter library for the GUI and SQLite for the database. The application allows users to manage book records, including adding, updating, and deleting records.
 
@@ -26,3 +25,13 @@ This is a simple Library Management System developed using Python's Tkinter libr
 1. Clone this repository:
    ```bash
    git clone https://github.com/yourusername/library-management-system.git
+
+
+2. Navigate to the project directory:
+```bash
+cd library-management-system
+
+3. Run the application:
+```bash
+python library_management_system.py
+
